@@ -48,8 +48,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMartinss&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
     
- 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=tokyonight_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=pt-br)](https://git.io/streak-stats)
+ <div style="center">
+     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=tokyonight_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D&locale=pt-          br)](https://git.io/streak-stats)
+ </div>
 
   
 ##
