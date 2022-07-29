@@ -41,6 +41,8 @@
   
   </div><br>
   
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=tokyonight_duo&hide_border=true&locale=pt-br)](https://git.io/streak-stats)
+  
   
   
   
