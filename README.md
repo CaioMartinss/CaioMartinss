@@ -47,12 +47,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioMartinss&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMartinss&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-    
- <div style="display:inline_block">
- </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=tokyonight&locale=pt-br)](https://git.io/streak-stats)
 
-  
 ##
 
 <div> 
