@@ -50,7 +50,11 @@
     
  ##   
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=slateorange&locale=pt-br&sideLabels=C31AFF&stroke=2775FF&ring=E915FF&fire=05DDD0&background=0E2E7C63&border=FFFFFF&currStreakNum=C01BDD&sideNums=60DD88&currStreakLabel=8E19DD&dates=15AEDD)](https://git.io/streak-stats)
+<div>
+  <a href="https://github.com/CaioMartinss">
+  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+  
+
 
 ##
 
