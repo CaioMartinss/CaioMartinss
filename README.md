@@ -52,7 +52,7 @@
 
 <div>
   <a href="https://github.com/CaioMartinss">
-  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=radical&format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
   
 
 
