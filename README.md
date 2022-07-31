@@ -50,7 +50,7 @@
     
  ##   
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=tokyonight_duo&locale=pt-br)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaioMartinss)](https://git.io/streak-stats)
 
 
 ##
