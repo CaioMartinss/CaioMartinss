@@ -49,10 +49,7 @@
 </div>
     
  ##   
-
-  
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=tokyonight)](https://git.io/streak-stats) 
 ##
 
 <div> 
