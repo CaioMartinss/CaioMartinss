@@ -49,7 +49,7 @@
 </div>
     
  ##   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=monokai)](https://git.io/streak-stats)
 ##
 
 <div> 
