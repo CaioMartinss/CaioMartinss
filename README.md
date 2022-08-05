@@ -1,16 +1,12 @@
 ### HELLO!
-
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=CaioMartinss%20&fontAlignY=50&color=gradient)
 
 - 😄 wassup? My name is Caio Martins do Nascimento
 - :trollface: I'm twenty-one years old
 - 🖱️ I'm software engineer student 4/8
 - 🌎 From brazil, PA.
 -  🏀  ⚽ 💪 addicted to sports. 
-
-  
-  ##
-   
-  
+##
 <div style="display: inline_block">
   <a href="https://github.com/CaioMartinss">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioMartinss&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -20,7 +16,8 @@
  ##   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=dracula)](https://git.io/streak-stats)
 ##
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mysql,mongodb,supabase,docker,heroku,git,github,jest,bash)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mysql,heroku,git,github,bash)](https://skillicons.dev)
 ##
 
 <div> 
