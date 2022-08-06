@@ -21,7 +21,7 @@
 ##
 
 <div style="font-size: 2.1rem">
-Entre em contato:
+ENTRE EM CONTATO:
 </div>  
  <br>
 <div> 
