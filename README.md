@@ -14,7 +14,7 @@
 </div>
     
  ##   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=synthwave)](https://git.io/streak-stats)
 ##
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mysql,heroku,git,github,bash)](https://skillicons.dev)
