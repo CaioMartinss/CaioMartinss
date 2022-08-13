@@ -6,14 +6,14 @@
 - 🖱️ I'm software engineer student 4/8
 - 🌎 From brazil, PA.
 -  🏀  ⚽ 💪 addicted to sports. 
-##
+##  📈 Estatísticas
 <div align="center">
   <a href="https://github.com/CaioMartinss">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioMartinss&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMartinss&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
     
-##  Estatísticas
+##  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=synthwave)](https://git.io/streak-stats)
 ## ⚡ Tecnologias  
 
