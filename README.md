@@ -4,7 +4,7 @@
 
    <div> <h2> <i>ABOUT me:</i> </div>
    
-  - 😄 <i>wassup? My name is Caio Martins do Nascimento <br>
+  - 😄 wassup? My name is Caio Martins do Nascimento <br>
   - :trollface: I'm twenty-one years old
   - 🖱️ I'm software engineer student 4/8 
   - 🌎 From brazil, PA. 
