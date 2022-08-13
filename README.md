@@ -2,16 +2,13 @@
    <h1> <i> WELCOME</i> to my github profile!
 </div>
 
-   <div> <h2> <i>ABOUT me:</i> </div>
+   <div align="center"> <h2> <i>ABOUT me:</i> </div>
+    <div align="center">  <p><i>Hello, My name is Caio Martins do Nascimento, </i> 
+ I'm twenty-one years old, I'm software engineer student 4/8 ate UEPA, I'm from Brazil, but more specifically from State of Pará and I currently live in Redenção(PA) and  I'am addicted to sports.</p> </div>
    
-  - 😄 wassup? My name is Caio Martins do Nascimento <br>
-  - :trollface: I'm twenty-one years old
-  - 🖱️ I'm software engineer student 4/8 
-  - 🌎 From brazil, PA. 
-  -  🏀  ⚽ 💪 addicted to sports.
-
-
-
+   
+  
+   
 ##  📈 Statistics
 <div align="center">
   <a href="https://github.com/CaioMartinss">
