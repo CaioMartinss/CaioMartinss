@@ -2,8 +2,9 @@
    <h1> <i> WELCOME</i> to my github profile! 😃️
 </div>
  
-   <div align="center">  <h2> <i> 👋 ABOUT me:</i> </div>
- <div align="center">  <p><i>Hello, My name is Caio Martins do Nascimento, </i> Student of the Bachelor's Degree in Software Engineering at the State University of  Pará (UEPA). I am Motivated, focused on achieving my goals and objectives,communicative, outgoing and self-taught. Always willing to learn new things and overcome new setbacks. Lover of learning and new Technologies (Java, PhP, NodeJS, React). Sports lover and new challenges. HTML5, CSS3, MySql, GitHub, JavaScript and related skills..</p> </div>
+ <div align="center">  <h2> <i> 👋 ABOUT me:</i> </div>
+
+<div align="center">  <p><i>Hello, My name is Caio Martins do Nascimento, </i> Student of the Bachelor's Degree in Software Engineering at the State University of  Pará (UEPA). I am Motivated, focused on achieving my goals and objectives,communicative, outgoing and self-taught. Always willing to learn new things and overcome new setbacks. Lover of learning and new Technologies (Java, PhP, NodeJS, React). Sports lover and new challenges. HTML5, CSS3, MySql, GitHub, JavaScript and related skills..</p> </div>
  🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 
    
   
@@ -17,7 +18,7 @@
 </div>
     
   
- ##  🚀 Sequence
+ ##  🚀 Stats
  <br> 
   <div align="center">
       <img height="175em" src="http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=z)](https://git.io/streak-stats)"></img>
