@@ -3,8 +3,7 @@
 </div>
 
    <div align="center"> <h2> <i>ABOUT me:</i> </div>
-    <div align="center">  <p><i>Hello, My name is Caio Martins do Nascimento, </i> 
- I'm twenty-one years old, I'm software engineer student 4/8 ate UEPA, I'm from Brazil, but more specifically from State of Pará and I currently live in Redenção(PA) and  I'am addicted to sports.</p> </div>
+ <div align="center">  <p><i>Hello, My name is Caio Martins do Nascimento, </i> Student of the Bachelor's Degree in Software Engineering at the State University of  Pará (UEPA). I am Motivated, focused on achieving my goals and objectives,communicative, outgoing and self-taught. Always willing to learn new things and overcome new setbacks. Lover of learning and new Technologies (Java, PhP, NodeJS, React). Sports lover and new challenges. HTML5, CSS3, MySql, GitHub, JavaScript and related skills..</p> </div>
    
    
   
