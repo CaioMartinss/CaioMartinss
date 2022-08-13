@@ -3,12 +3,11 @@
 </div>
  
  <div align="center">  <h2> <i> 🤙 ABOUT me:</i> </div>
- 
    <div align="center">
       <img width="10%" src="https://usercontent1.hubstatic.com/11837488.png"></img>
     </div>
 
-> <div align="center">  <p><strong>Hello, My name is <i>CAIO MARTINS DO NASCIMENTO</strong>, </i>I'am Student of the Bachelor's Degree in Software Engineering at the State University of  Pará (UEPA). I am Motivated, focused on achieving my goals and objectives,communicative, outgoing and self-taught. Always willing to learn new things and overcome new setbacks. Lover of learning and new Technologies (Java, PhP, NodeJS, React). Sports lover and new challenges. HTML5, CSS3, MySql, GitHub, JavaScript and related skills..</p> </div>
+<div align="center">  <p><strong>Hello, My name is <i>CAIO MARTINS DO NASCIMENTO</strong>, </i>I'am Student of the Bachelor's Degree in Software Engineering at the State University of  Pará (UEPA). I am Motivated, focused on achieving my goals and objectives,communicative, outgoing and self-taught. Always willing to learn new things and overcome new setbacks. Lover of learning and new Technologies (Java, PhP, NodeJS, React). Sports lover and new challenges. HTML5, CSS3, MySql, GitHub, JavaScript and related skills..</p> </div>
  🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 🔹 
 ##  📈 Statistics
 <div align="center">
