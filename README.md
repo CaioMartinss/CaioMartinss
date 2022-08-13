@@ -2,15 +2,17 @@
    <h1> <i> WELCOME</i> to my github profile!
 </div>
 
-  - 😄 wassup? My name is Caio Martins do Nascimento <br>
- - :trollface: I'm twenty-one years old
+   <div> <h2> <i>ABOUT me:</i> </div>
+   
+  - 😄 <i>wassup? My name is Caio Martins do Nascimento <br>
+  - :trollface: I'm twenty-one years old
   - 🖱️ I'm software engineer student 4/8 
-  - 🌎 From brazil, PA. <
+  - 🌎 From brazil, PA. 
   -  🏀  ⚽ 💪 addicted to sports.
 
 
 
-##  📈 Estatísticas
+##  📈 Statistics
 <div align="center">
   <a href="https://github.com/CaioMartinss">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioMartinss&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -20,18 +22,17 @@
   
  ##  Streaks 
   <div align="center">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=z)](https://git.io/streak-stats)"></img>
+  <img height="175em" src="http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=z)](https://git.io/streak-stats)"></img>
 </div>
 
-## ⚡ Tecnologias  
+## ⚡ Technologies  
 
 <div align="center">
   <img height=""src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mysql,heroku,git,github,bash"></img>
 </div>
 
 
-##  Contatos:  
- <br>
+##  Get in touch:  
 <div align="center"> 
   <a href="https://www.instagram.com/caiomartinxs__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:martinscaio29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
