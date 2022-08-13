@@ -7,18 +7,21 @@
 - 🌎 From brazil, PA.
 -  🏀  ⚽ 💪 addicted to sports. 
 ##
-<div style="display: inline_block">
+<div align="center">
   <a href="https://github.com/CaioMartinss">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioMartinss&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMartinss&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
     
- ##   
+##  Estatísticas
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=synthwave)](https://git.io/streak-stats)
-##
+## ⚡ Tecnologias  
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mysql,heroku,git,github,bash)](https://skillicons.dev)
-##
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mysql,heroku,git,github,bash"></img>
+</div>
+
+
 
 <div style="font-size: 2.1rem">
 ENTRE EM CONTATO:
