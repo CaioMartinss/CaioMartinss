@@ -19,7 +19,7 @@
 
 ##  🚀 Stats
   <div align="center">
-      <img height="175em" src="http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=z)](https://git.io/streak-stats)"></img>
+      <img height="175em" src="http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=radical(http://git.io/streak-stats)"></img>
   </div>
 
 ## ⚡ Technologies  
