@@ -1,8 +1,8 @@
 <div align="center">
-   <h1> <i> WELCOME</i> to my github profile!> 😃️
+   <h1> <i> WELCOME</i> to my github profile! 😃️ 
 </div>
  
- <div align="center">  <h2> <i> 👋 ABOUT me:</i> </div>
+ <div align="center">  <h2> <i> 🤙 ABOUT me:</i> </div>
  
    <div align="center">
       <img width="10%" src="https://usercontent1.hubstatic.com/11837488.png"></img>
