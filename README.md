@@ -2,14 +2,18 @@
    <h1> <i> Olá amigo, eu me chamo Caio Martins!</i> 😃️ 
 </div>
  
- <div align="">  <h2> <i> 🤙 ABOUT ME:</i> </div>
+ <div align="">  <h2> <i> 👌 Sobre mim:</i> </div>
 <!--    <div align="center">
       <img width="10%" src="https://usercontent1.hubstatic.com/11837488.png"></img>
     </div> -->
 
 <div align=""> 
-   -  me chamo <b> Caio Martins do Nascimento</b>
-   - Discente em Engenharia de Software na Universidade do Estado do Pará(UEPA)
+   - 🐺 me chamo <b> Caio Martins do Nascimento</b><br>
+   - :trollface: tenho 21 anos de idade <br>
+   - 🏆 Discente em Engenharia de Software na Universidade do Estado do Pará(UEPA) <br>
+   - 🏀 💪 Vicíado em esportes <br>
+   - 🎮 quando não estou jogando, estou me divertindo. <br>
+   - 💻 Atualmente estou focando na área de front-end: HMTL, CSS(SASS), JAVASCRIPT E REACT.
 </div>
  
 
