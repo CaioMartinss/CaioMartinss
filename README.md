@@ -2,10 +2,8 @@
    <h1> <i> Olá amigo, me chamo Caio Martins!</i> 😃️ 
 </div>
  
- <div align="">  <h2> <i> 👌 Sobre mim:</i> </div>
-<!--    <div align="center">
-      <img width="10%" src="https://usercontent1.hubstatic.com/11837488.png"></img>
-    </div> -->
+ ### <i> 👌 Sobre mim:</i>
+
 
 <div align=""> 
    - 🐺 me chamo <b> Caio Martins do Nascimento</b><br>
