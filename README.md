@@ -1,5 +1,5 @@
 <div align="center">
-   <h1> <i> Olá amigo, eu me chamo Caio Martins!</i> 😃️ 
+   <h1> <i> Olá amigo, me chamo Caio Martins!</i> 😃️ 
 </div>
  
  <div align="">  <h2> <i> 👌 Sobre mim:</i> </div>
