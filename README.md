@@ -8,7 +8,7 @@
 <div align=""> 
    - 🐺 me chamo <b> Caio Martins do Nascimento</b><br>
    - :trollface: tenho 21 anos de idade <br>
-   - 🏆 Discente em Engenharia de Software na Universidade do Estado do Pará(UEPA) <br>
+   - 🏆 Discente em Engenharia de Software 4/8 na Universidade do Estado do Pará(UEPA) <br>
    - 🏀 💪 Vicíado em esportes <br>
    - 🎮 quando não estou estudando, estou me divertindo. <br>
    - 💻 Atualmente estou focando na área de front-end: HMTL, CSS(SASS), JAVASCRIPT E REACT.
