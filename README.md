@@ -9,6 +9,7 @@
    - 🏀 💪 Vicíado em esportes; <br>
    - 🎮 quando não estou estudando, estou me divertindo; <br>
    - 💻 Atualmente estou focando na área de front-end: <i> HMTL, CSS(SASS), JAVASCRIPT, REACTjs e NEXTjs.</i>
+   - 🥈 Tecnologias que eu estudo em segundo plano: JAVA, PHP e C#.
 </div>
 <br>
 <br>
