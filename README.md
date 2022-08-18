@@ -8,8 +8,8 @@
    - 🏆 Discente em Engenharia de Software 4/8 na Universidade do Estado do Pará(UEPA); <br>
    - 🏀 💪 Vicíado em esportes; <br>
    - 🎮 quando não estou estudando, estou me divertindo; <br>
-   - 💻 Atualmente estou focando na área de front-end: <i> HMTL, CSS(SASS), JAVASCRIPT, REACTjs e NEXTjs.</i>
-   - 🥈 Tecnologias que eu estudo em segundo plano: JAVA, PHP e C#.
+   - 💻 Atualmente estou focando na área de front-end: <i> HMTL, CSS(SASS), JAVASCRIPT, REACTjs e NEXTjs.</i><br>
+   - 🥈 Tecnologias que eu estudo em segundo plano: <i>JAVA, PHP e C#.</i>
 </div>
 <br>
 <br>
