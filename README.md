@@ -45,9 +45,9 @@
   <a href="mailto:martinscaio29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  <div align="center">
+ <div align="center">
   
-    ![Snake animation](https://github.com/CaioMartinss/CaioMartinss/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/CaioMartinss/CaioMartinss/blob/output/github-contribution-grid-snake.svg)
   
- </div> 
+</div>
 
