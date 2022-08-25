@@ -3,7 +3,7 @@
 
  ### <i> 👌 Sobre mim:</i>
 <div align=""> 
-   - 🐺 Olá, eu o <b> Caio Martins do Nascimento</b>;<br>
+   - 🐺 Olá, eu me chamo <b> Caio Martins do Nascimento</b>;<br>
    - :trollface: tenho 21 anos de idade; <br>
    - 🏆 Discente em Engenharia de Software 4/8 na Universidade do Estado do Pará(UEPA); <br>
    - 🏀 💪 Vicíado em esportes; <br>
