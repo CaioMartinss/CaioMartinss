@@ -1,5 +1,6 @@
 <div>
   <h1 align="center">Oi, Tudo bem? Eu sou o Caio Martins 😃️</h1>
+  
 
   
  ### <i> 👌 Sobre mim:</i>
@@ -46,10 +47,16 @@
   <a href="https://www.linkedin.com/in/caio-martinss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:martinscaio29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+         
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CaioMartinss&row=1" alt="troféu do Github">
+  </a>
+</p>
+         
+
 
  <!-- <div align="center">
-  
   ![Snake animation](https://github.com/CaioMartinss/CaioMartinss/blob/output/github-contribution-grid-snake.svg)
-  
 </div> -->
 
