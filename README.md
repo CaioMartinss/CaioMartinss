@@ -16,13 +16,13 @@
 <br>
 <br>
  <div align="center">
-      <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=dracula&hide_border=false&locale=pt-br(https://git.io/streak-stats)"></img>
+      <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=chartreuse-dark&hide_border=false&locale=pt-br(https://git.io/streak-stats)"></img>
   </div>
   
 <div align="center">
   <a href="https://github.com/CaioMartinss">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioMartinss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMartinss&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioMartinss&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMartinss&theme=chartreuse-dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -50,7 +50,7 @@
          
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CaioMartinss&row=1" alt="troféu do Github">
+    <img src="https://github-profile-trophy.vercel.app/?username=CaioMartinss&theme=gruvbox&row=1" alt="troféu do Github">
   </a>
 </p>
          
