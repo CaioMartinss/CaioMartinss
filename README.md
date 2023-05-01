@@ -53,5 +53,23 @@
     <img src="https://github-profile-trophy.vercel.app/?username=CaioMartinss&theme=gruvbox&row=1" alt="troféu do Github">
   </a>
 </p>
+
+
+<!-- <div align="center">
+  <a href="https://github.com/CaioMartinss/Lista_simples">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMartinss&repo=lista_simples" />
+  </a>
+  
+  
+  <a href="https://github.com/CaioMartinss/calculadora">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMartinss&repo=calculadora" />
+  </a>
+
+</div>
+
+ -->
+
+
+
          
 
