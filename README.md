@@ -12,6 +12,7 @@
    - 🎮 quando não estou estudando, estou me divertindo; <br>
    - 💻 Atualmente estou focando na área de front-end: <i> HMTL, CSS(SASS), JAVASCRIPT, REACTjs e NEXTjs.</i><br>
    - 🥈 Tecnologias que eu estudo em segundo plano: <i>JAVA, PHP e C#.</i>
+  
 </div>
 <br>
 <br>
