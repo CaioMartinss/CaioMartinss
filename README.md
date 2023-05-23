@@ -60,6 +60,7 @@
    
   [Estrutura de Governança de T.I: Aprimorando a eficiência e eficácia com o modelo COBIT como framework](http://sevenpublicacoes.com.br/index.php/editora/article/view/1351)
 
+<img src="" alt="Texto alternativo da imagem" width="300" height="200">
 
  </div>
 
