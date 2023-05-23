@@ -55,16 +55,23 @@
   </a>
 </p>
 
-<!-- <div>
+
+
+
+
+<!-- <div align="center">
+  
   <h2 align="center" > Artigos Publicados: </h2>
-   
-  [Estrutura de Governança de T.I: Aprimorando a eficiência e eficácia com o modelo COBIT como framework](http://sevenpublicacoes.com.br/index.php/editora/article/view/1351)
-
-<img src="" alt="Texto alternativo da imagem" width="300" height="200">
-
+  
+  [Estrutura de Governança de T.I:Aprimorando a eficiência e eficácia  com o modelo COBIT como framework](http://sevenpublicacoes.com.br/index.php/editora/article/view/1351) 
+  
+  <img src="https://github.com/CaioMartinss/CaioMartinss/assets/83457944/71436613-aae4-41dc-9a4b-97b10c3fda1c.jpg" alt="Texto alternativo da imagem" width="220" height="300">
+  
+  
  </div>
  -->
-  
+
+
 
 
 
