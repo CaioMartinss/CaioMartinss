@@ -55,6 +55,21 @@
   </a>
 </p>
 
+<div>
+  <h2 align="center" > Artigos Publicados: </h2>
+   
+  [Estrutura de Governança de T.I: Aprimorando a eficiência e eficácia com o modelo COBIT como framework](http://sevenpublicacoes.com.br/index.php/editora/article/view/1351)
+
+  <img src="">
+
+    
+ </div>
+
+  
+
+
+
+
 
 <!-- <div align="center">
   <a href="https://github.com/CaioMartinss/Lista_simples">
