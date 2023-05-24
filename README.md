@@ -65,7 +65,7 @@
  
  
  
-[<img src="https://github.com/CaioMartinss/CaioMartinss/assets/83457944/b4202133-bc97-42ff-9f8a-e9ccca99b236" align="left" width="200"  height="320"/>](http://sevenpublicacoes.com.br/index.php/editora/article/view/1351)
+[<img src="https://github.com/CaioMartinss/CaioMartinss/assets/83457944/b4202133-bc97-42ff-9f8a-e9ccca99b236" align="left" width="200"  height="340"/>](http://sevenpublicacoes.com.br/index.php/editora/article/view/1351)
         **[Estrutura de Governança de T.I: Aprimorando a eficiência e eficácia  com o modelo COBIT como framework](http://sevenpublicacoes.com.br/index.php/editora/article/view/1351)**
         
    O artigo discute a importância da governança de TI e apresenta o COBIT (Control Objectives for Information and Related Technology) como um framework para a governança de TI. O COBIT é um conjunto de objetivos de controle para os processos de TI alinhados com os objetivos estratégicos da organização. O framework ajuda as organizações a criar valor através da TI, equilibrando benefícios, níveis de risco e uso de recursos. Em resumo, o COBIT é visto como uma ferramenta útil para organizações de todos os tamanhos e tipos, comerciais, sem fins lucrativos ou públicas, para alcançar seus objetivos de governança e gestão de TI. O artigo destaca que as organizações bem-sucedidas reconhecem a importância da TI e a incluem em sua abordagem de governança. A última versão do COBIT enfatiza que a governança corporativa de TI é essencial, pois a TI é tão importante para o negócio quanto qualquer outra parte da organização.
