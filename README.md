@@ -20,12 +20,12 @@
       <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=CaioMartinss&theme=chartreuse-dark&hide_border=false&locale=pt-br(https://git.io/streak-stats)"></img>
   </div>
   
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/CaioMartinss">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioMartinss&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMartinss&theme=chartreuse-dark&hide_border=false&&layout=compact"/>
   </a>
-</div>
+</div> -->
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
