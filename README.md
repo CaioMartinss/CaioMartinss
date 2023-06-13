@@ -77,6 +77,25 @@
 
 
 
+ 
+[<img src="https://github.com/CaioMartinss/CaioMartinss/assets/83457944/b4202133-bc97-42ff-9f8a-e9ccca99b236" align="left" width="200"  height="340"/>](https://ojs.revistacontemporanea.com/ojs/index.php/home/article/view/883)
+        **[UMA ANÁLISE COMPARATIVA ENTRE OS MODELOS DE  MATURIDADE  DE  PROCESSOS  DE  SOFTWARE MPS-BR E CMMI: DESCOBRINDOAS DIFERENÇAS E SEMELHANÇAS](https://ojs.revistacontemporanea.com/ojs/index.php/home/article/view/883)**
+        
+   Este   artigo   apresenta   uma   comparação   dos   modelos   de maturidade MPS-BR (Melhoria  de Processo de Software Brasileiro) e CMMI (Capability  Maturity  Model  Integration).  O  objetivo  geral  foi  comparar  os processos  de  maturidades  dos  modelos,  bem  como  verificar  as  suas vantagens  e  desvantagens  entre  os  referidos  modelos.  Para  chegar  nos resultados  utilizamos  a  metodologia  de  abordagem  qualitativa,  aplicando técnicas de  revisão bibliográfica e triangulação de dados. Como resultado, foi  possível  notar  que  o  modelo  MPS-BR  possui  algumas  vantagens  em relação  ao  modelo  CMMI  ao  ser  empregado  em  empresas  de  pequeno  e médio porte.
+
+ Publicação: *12 junho 2023*        
+ 
+ [![Article](https://img.shields.io/badge/Article-Read-blue)](http://sevenpublicacoes.com.br/index.php/editora/article/view/1351)
+
+
+
+
+
+
+
+
+
+
 <!-- <div align="center">
   <a href="https://github.com/CaioMartinss/Lista_simples">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaioMartinss&repo=lista_simples" />
