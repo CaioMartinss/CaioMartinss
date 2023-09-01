@@ -115,5 +115,10 @@
 
 
 
+
+
+
+<!--## Version
+[Português 🇧🇷](./README.md)  |  [Inglês sem emojis 🇺🇸](./README-en.md) | [Portugues sem logo  🇧🇷](./README-sem-logo.md) -->
          
 
