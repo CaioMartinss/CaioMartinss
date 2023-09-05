@@ -8,7 +8,7 @@
 :email:  **martinscaio29@gmail.com** <br>
 🌐  https://www.linkedin.com/in/caio-martinss/
 
-##### Hi recruiter :smiley:, I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume :beginner:.
+<!-- ##### Hi recruiter :smiley:, I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume :beginner:. -->
 
 ## :bell: About me
 Student of the Bachelor's Degree in Software Engineering at the State University of Pará (UEPA). I am Motivated, focused on achieving my goals and objectives, communicative, outgoing and self-taught. Always willing to learn new things and overcome new setbacks. Lover of learning and new Technologies (Java, PhP, NodeJS, React). Sports lover and new challenges. HTML5, CSS3, MySql, GitHub, JavaScript and related skills.
