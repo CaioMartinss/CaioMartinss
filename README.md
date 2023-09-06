@@ -12,7 +12,7 @@
 
 
 
- <p align="center"> <samp><em> 📖 If you intend to know more about me, check my  <a href="https://github.com/CaioMartinss/CaioMartinss/blob/main/resume.md">resume/portfolio</a></p></em></samp>
+ <p align="center"> <samp><em> 📖 If you want to find out more about me, check my  <a href="https://github.com/CaioMartinss/CaioMartinss/blob/main/resume.md">resume/portfolio</a></p></em></samp>
 
 </p>
 
