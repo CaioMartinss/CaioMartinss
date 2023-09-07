@@ -85,7 +85,7 @@ University of the State of Pará **(UEPA)** - Bachelor degree in Software Engine
 * [**Gallery_images**](https://github.com/CaioMartinss/Gallery_images): small project developed during my period as monitor of the web programming discipline, the objective was to teach basic concepts in hmtl, css and javascrip.
 * [**fruteira-html-css**](https://fruteira-html-css.netlify.app/): Fruit tree with html and css. The site was built with the aim of practicing html and css skills while observing good practices.
 * [**calculadora**](https://reactcalc1.netlify.app/): Small exercise to create a calculator with the aim of improving my knowledge of React.
-* [**Lista_simples**](https://github.com/CaioMartinss/Lista_simples): Small project in flutter for the mobile programming course. The aim is to create a simple to-do list that is manageable..
+* [**Lista_simples**](https://github.com/CaioMartinss/Lista_simples): Small project in flutter for the mobile programming course. The aim is to create a simple to-do list that is manageable.
 
 
 <!-- ## :triangular_flag_on_post: What do I study? How do I study?
