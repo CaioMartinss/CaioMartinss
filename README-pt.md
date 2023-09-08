@@ -107,6 +107,6 @@ always aiming to increase my productivity. In addition, I always try to test my 
 
 ##   README Versions
 
-[Inglês 🇺🇸](./README.md) 
+[Inglês 🇺🇸](./Resume.md) 
 
 </samp>
