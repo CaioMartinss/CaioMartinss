@@ -50,6 +50,8 @@ University of the State of Pará **(UEPA)** - Bachelor degree in Software Engine
 <!-- * C#
   * .Net Core  -->
 * Php
+* Java
+    * Spring boot
 <!-- * Python
     * Flask   -->
     
@@ -60,7 +62,8 @@ University of the State of Pará **(UEPA)** - Bachelor degree in Software Engine
 
 ### :muscle: Other Programming Languages
 * C#
-* Java 
+* Java
+* Pyton
 <!--  * Java 
 * kotlin
 * Prolog
@@ -68,11 +71,12 @@ University of the State of Pará **(UEPA)** - Bachelor degree in Software Engine
 
 ### :floppy_disk: Data Base
 * MySQL
-<!-- * Sql Server
-* MongoDB -->
+<!-- * Sql Server -->
+* MongoDB 
 
 ### :octocat: Version Control Systems
 * Git / GitHub.
+  * Git Flow
 
 ## :cloud: Platform as a service
 <!-- * Heroku -->
